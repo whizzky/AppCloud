@@ -1,3 +1,3 @@
-# AppCloud
+# Salesforce Platform
 
-Repo used for exposing Salesforce App Cloud Handson lab exercises
+Repo used for exposing Salesforce Platform Cloud Handson lab exercises
